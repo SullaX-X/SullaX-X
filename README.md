@@ -7,19 +7,22 @@
     </div>
 </div>
 
-
 ### Aboute me 📓📝
+
 <hr>
 
-### English `language` 
+### English `language`
+
 <hr>
 
-- My name is ***`Sull`***, and I am a passionate programmer constantly seeking new knowledge and skills.  
-- The main focus of my studies is on the Python and JavaScript programming languages.  
-- I also actively use tools like Git and Bash for project management and task automation.  
-- Additionally, I have experience working with Blender, creating 3D models.  
+- My name is **_`Sull`_**, and I am a passionate programmer constantly seeking new knowledge and skills.
+- The main focus of my studies is on the Python and JavaScript programming languages.
+- I also actively use tools like Git and Bash for project management and task automation.
+- Additionally, I have experience working with Blender, creating 3D models.
 - **I look forward to new connections!**
+
 ### Russian `language`
+
 - Меня зовут **`Сулл`**, и я увлечённый программист, постоянно стремящийся к новым знаниям и навыкам.
 - Основное направление моих исследований — языки программирования **`Python и JavaScript`**.
 - Я также активно использую такие инструменты, как **`Git и Bash`** для управления проектами и автоматизации задач.
@@ -28,20 +31,46 @@
 <hr>
 
 ### Myt
+
 <hr>
 
+## My Skill Set
 
+<table><tr><td valign="top" width="33%">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title='bash' width=50 height=50 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"  title='HTML' width=50 height=50/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title='CSS' width=50 height=50/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" title='bash' width=55 height=55 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title='Python' width=55 height=55 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title='bash' width=50 height=55/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" title='bash' width=55 height=55/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" title="linux" width=55 height=55/>
+### Frontend
 
-###  Моя GitHub-статистика:
+<div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+### Python
+
+<div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
+
+### Linux
+
+<div align="center">  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+</div>
+
+</td></tr></table>
+
+### Моя GitHub-статистика:
+
 <hr>
 
 <div id="stat" align="center">
@@ -49,5 +78,3 @@
     <img scr="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ParsifalX-X&theme=2077"/>
     <img scr="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ParsifalX-X&theme=2077"/>
 </div>
-
-
