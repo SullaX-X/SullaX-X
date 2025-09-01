@@ -9,6 +9,7 @@
 ## 📓📝 About Me
 
 ### English
+
 - My name is **Sull**, and I am a passionate programmer constantly seeking new knowledge and skills.
 - The main focus of my studies is on the Python and JavaScript programming languages.
 - I also actively use tools like Git and Bash for project management and task automation.
@@ -16,6 +17,7 @@
 - **I look forward to new connections!**
 
 ### Русский
+
 - Меня зовут **Сулл**, и я увлечённый программист, постоянно стремящийся к новым знаниям и навыкам.
 - Основное направление моих исследований — языки программирования **Python и JavaScript**.
 - Я также активно использую такие инструменты, как **Git и Bash** для управления проектами и автоматизации задач.
@@ -25,28 +27,36 @@
 ## 🛠️ My Skill Set
 
 ### Operating Systems
-<img src="icons/Linux-Dark.svg" alt="Linux" width="48" height="48"> <img src="icons/Mint-Dark.svg" alt="Linux Mint" width="48" height="48"> <img src="icons/Ubuntu-Dark.svg" alt="Ubuntu" width="48" height="48"> <img src="icons/Kali-Dark.svg" alt="Kali Linux" width="48" height="48"> <img src="icons/Windows-Dark.svg" alt="Windows" width="48" height="48">
+
+<img src="./icons/Linux-Dark.svg" alt="Linux" width="48" height="48"> <img src="./icons/Mint-Dark.svg" alt="Linux Mint" width="48" height="48"> <img src="./icons/Ubuntu-Dark.svg" alt="Ubuntu" width="48" height="48"> <img src="./icons/Kali-Dark.svg" alt="Kali Linux" width="48" height="48"> <img src="./icons/Windows-Dark.svg" alt="Windows" width="48" height="48">
 
 ### Version Control
-<img src="icons/Git.svg" alt="Git" width="48" height="48"> <img src="icons/Github-Dark.svg" alt="GitHub" width="48" height="48"> <img src="icons/GitLab-Dark.svg" alt="GitLab" width="48" height="48">
+
+<img src="./icons/Git.svg" alt="Git" width="48" height="48"> <img src="./icons/Github-Dark.svg" alt="GitHub" width="48" height="48"> <img src="./icons/GitLab-Dark.svg" alt="GitLab" width="48" height="48">
 
 ### Python Technologies
-<img src="icons/Django.svg" alt="Django" width="48" height="48"> <img src="icons/Selenium.svg" alt="Selenium" width="48" height="48"> <img src="icons/Python-Dark.svg" alt="Python" width="48" height="48"> <img src="icons/QT-Dark.svg" alt="Qt" width="48" height="48">
+
+<img src="./icons/Django.svg" alt="Django" width="48" height="48"> <img src="./icons/Selenium.svg" alt="Selenium" width="48" height="48"> <img src="./icons/Python-Dark.svg" alt="Python" width="48" height="48"> <img src="./icons/QT-Dark.svg" alt="Qt" width="48" height="48">
 
 ### Frontend Technologies
-<img src="icons/Bootstrap.svg" alt="Bootstrap" width="48" height="48"> <img src="icons/Figma-Dark.svg" alt="Figma" width="48" height="48"> <img src="icons/TailwindCSS-Dark.svg" alt="Tailwind CSS" width="48" height="48"> <img src="icons/HTML.svg" alt="HTML" width="48" height="48"> <img src="icons/CSS.svg" alt="CSS" width="48" height="48"> <img src="icons/JavaScript.svg" alt="JavaScript" width="48" height="48"> <img src="icons/Postman.svg" alt="Postman" width="48" height="48">
+
+<img src="./icons/Bootstrap.svg" alt="Bootstrap" width="48" height="48"> <img src="./icons/Figma-Dark.svg" alt="Figma" width="48" height="48"> <img src="./icons/TailwindCSS-Dark.svg" alt="Tailwind CSS" width="48" height="48"> <img src="./icons/HTML.svg" alt="HTML" width="48" height="48"> <img src="./icons/CSS.svg" alt="CSS" width="48" height="48"> <img src="./icons/JavaScript.svg" alt="JavaScript" width="48" height="48"> <img src="./icons/Postman.svg" alt="Postman" width="48" height="48">
 
 ### IDEs
-<img src="icons/WebStorm-Dark.svg" alt="WebStorm" width="48" height="48"> <img src="icons/VSCode-Dark.svg" alt="Visual Studio Code" width="48" height="48"> <img src="icons/VisualStudio-Dark.svg" alt="Visual Studio" width="48" height="48"> <img src="icons/PyCharm-Dark.svg" alt="PyCharm" width="48" height="48"> <img src="icons/Sublime-Dark.svg" alt="Sublime Text" width="48" height="48"> <img src="icons/VIM-Dark.svg" alt="Vim" width="48" height="48">
+
+<img src="./icons/WebStorm-Dark.svg" alt="WebStorm" width="48" height="48"> <img src="./icons/VSCode-Dark.svg" alt="Visual Studio Code" width="48" height="48"> <img src="./icons/VisualStudio-Dark.svg" alt="Visual Studio" width="48" height="48"> <img src="./icons/PyCharm-Dark.svg" alt="PyCharm" width="48" height="48"> <img src="./icons/Sublime-Dark.svg" alt="Sublime Text" width="48" height="48"> <img src="./icons/VIM-Dark.svg" alt="Vim" width="48" height="48">
 
 ### Database
-<img src="icons/SQLite.svg" alt="SQLite" width="48" height="48"> <img src="icons/MySQL-Dark.svg" alt="MySQL" width="48" height="48"> <img src="icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="48" height="48">
+
+<img src="./icons/SQLite.svg" alt="SQLite" width="48" height="48"> <img src="./icons/MySQL-Dark.svg" alt="MySQL" width="48" height="48"> <img src="./icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="48" height="48">
 
 ### Desktop Development
-<img src="icons/CS.svg" alt="C#" width="48" height="48"> <img src="icons/DotNet.svg" alt=".NET" width="48" height="48">
+
+<img src="./icons/CS.svg" alt="C#" width="48" height="48"> <img src="./icons/DotNet.svg" alt=".NET" width="48" height="48">
 
 ### Other
-<img src="icons/Bash-Dark.svg" alt="Bash" width="48" height="48">
+
+<img src="./icons/Bash-Dark.svg" alt="Bash" width="48" height="48">
 
 ## 📊 My GitHub Statistics
 
