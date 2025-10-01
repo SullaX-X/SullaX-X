@@ -2,7 +2,7 @@
   
 ![Sull's Logo](https://x-lines.ru/letters/i/cyrillicfancy/1384/000000/24/0/rbrgk5dcphsny1j8pwony1mpqjzo.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=26&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=700&height=40&lines=Welcome+to+my+profile!;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D1%83%D1%8E+%D0%B2%D1%81%D0%B5%D1%85%2C+%D0%BA%D1%82%D0%BE+%D0%B7%D0%B0%D0%B3%D0%BB%D1%8F%D0%BD%D1%83%D0%BB+%D0%BD%D0%B0+%D0%BC%D0%BE%D0%B9+%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Sans+MS&size=26&duration=4000&pause=1000&color=2d3748&center=true&vCenter=true&width=500&height=40&lines=Welcome+to+my+profile!;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D1%83%D1%8E+%D0%B2%D1%81%D0%B5%D1%85%2C+%D0%BA%D1%82%D0%BE+%D0%B7%D0%B0%D0%B3%D0%BB%D1%8F%D0%BD%D1%83%D0%BB+%D0%BD%D0%B0+%D0%BC%D0%BE%D0%B9+%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C!)](https://git.io/typing-svg)
 
 </div>
 
