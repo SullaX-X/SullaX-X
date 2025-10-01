@@ -76,9 +76,8 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
-
-<a href="https://yoomoney.ru/fundraise/1D4D9TIGTMN.251001">
-    <img src="./icons/it_project.png" alt="C#" width="500" height="480" />
-</a>
-
-<iframe src="https://yoomoney.ru/quickpay/fundraise/widget?billNumber=1D4D9TIGTMN.251001&" width="500" height="480" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
+<p align="center">
+  <a href="https://yoomoney.ru/fundraise/1D4D9TIGTMN.251001" target="_blank">
+    <img src="https://x-lines.ru/letters/i/cyrillicfancy/1384/000000/24/0/rbrgk5dcphsny1j8pwony1mpqjzo.png" alt="Sull's Logo" />
+  </a>
+</p>
