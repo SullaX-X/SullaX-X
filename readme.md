@@ -78,6 +78,6 @@
 </div>
 <p align="center">
   <a href="https://yoomoney.ru/fundraise/1D4D9TIGTMN.251001" target="_blank">
-    <img src="https://x-lines.ru/letters/i/cyrillicfancy/1384/000000/24/0/rbrgk5dcphsny1j8pwony1mpqjzo.png" alt="Sull's Logo" />
+    <img src="./icons/it_project.png" alt="Sull's Logo" />
   </a>
 </p>
