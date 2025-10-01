@@ -236,6 +236,18 @@
 				transform: scale(1.1);
 			}
 
+			.donation-section {
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				margin: 30px 0;
+			}
+
+			.donation-iframe {
+				border-radius: 12px;
+				box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+			}
+
 			@media (max-width: 768px) {
 				.container {
 					padding: 20px;
@@ -261,6 +273,10 @@
 					justify-content: center;
 					margin-bottom: 15px;
 				}
+				.donation-iframe {
+					width: 100%;
+					height: 400px;
+				}
 			}
 
 			@media (max-width: 480px) {
@@ -278,6 +294,9 @@
 				}
 				.container {
 					padding: 15px;
+				}
+				.donation-iframe {
+					height: 350px;
 				}
 			}
 		</style>
@@ -302,7 +321,7 @@
 					aria-label="Visit Online Letters"
 				>
 					<img
-						src="https://x-lines.ru/letters/i/cyrillicfancy/1384/000000/24/0/rbrgk5dcphsny1j8pwony1mpqjzo.png"
+						id="dynamic-logo"
 						alt="Sull's Logo"
 						class="logo"
 					/>
@@ -311,7 +330,7 @@
 			<div class="typing-container">
 				<a href="https://git.io/typing-svg" aria-label="Typing animation">
 					<img
-						src="https://readme-typing-svg.demolab.com?font=comic+sans+ms&weight=900&pause=1000&color=FFFFFF&background=0066FF00&center=true&vCenter=true&random=true&width=500&height=40&lines=Welcome+to+my+profile!;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D1%83%D1%8E+%D0%B2%D1%81%D0%B5%D1%85%2C+%D0%BA%D1%82%D0%BE+%D0%B7%D0%B0%D0%B3%D0%BB%D1%8F%D0%BD%D1%83%D0%BB+%D0%BD%D0%B0+%D0%BC%D0%BE%D0%B9+%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C!"
+						id="dynamic-typing"
 						alt="Typing animation"
 						class="typing-svg"
 					/>
@@ -531,6 +550,7 @@
 				</div>
 			</section>
 
+
 			<section class="github-stats" aria-labelledby="stats-heading">
 				<h2 id="stats-heading">My GitHub Statistics</h2>
 				<hr class="section-divider" />
@@ -551,179 +571,212 @@
 			</section>
 		</main>
 
+		<div class="donation-section">
+			<iframe
+				class="donation-iframe"
+				src="https://yoomoney.ru/quickpay/fundraise/widget?billNumber=1D4D9TIGTMN.251001&"
+				width="500"
+				height="480"
+				frameborder="0"
+				allowtransparency="true"
+				scrolling="no"
+			></iframe>
+		</div>
+
 		<script>
 			// Predefined color palettes
 			const colorPalettes = [
 				{
 					name: 'Coral',
-					titleH2: '#D65F82',
-					titleH3: '#FF8A9F',
-					bgArrows: '#FF6B7A',
-					skillGroup: '#2D3748',
-					skillShadowIcon: '#68D391',
-					boxShadow: '#2D3748',
-					textColor: '#E2E8F0',
+					titleH2: '#d65f82',
+					titleH3: '#ff8a9f',
+					bgArrows: '#ff6b7a',
+					skillGroup: '#2d3748',
+					skillShadowIcon: '#68d391',
+					boxShadow: '#2d3748',
+					textColor: '#e2e8f0',
 					bgBody: '#171923',
-					bgContainer: '#2A303C',
-					bgDivider: '#4A5568',
+					bgContainer: '#2a303c',
+					bgDivider: '#4a5568',
 				},
 				{
 					name: 'Ocean',
-					titleH2: '#4FC3F7',
-					titleH3: '#29B6F6',
-					bgArrows: '#0288D1',
-					skillGroup: '#01579B',
-					skillShadowIcon: '#4FC3F7',
-					boxShadow: '#01579B',
-					textColor: '#E1F5FE',
-					bgBody: '#0277BD',
-					bgContainer: '#0288D1',
-					bgDivider: '#4FC3F7',
+					titleH2: '#4fc3f7',
+					titleH3: '#29b6f6',
+					bgArrows: '#0288d1',
+					skillGroup: '#21579b',
+					skillShadowIcon: '#4fc3f7',
+					boxShadow: '#01579b',
+					textColor: '#e1f5fe',
+					bgBody: '#0277bd',
+					bgContainer: '#0288d1',
+					bgDivider: '#4fc3f7',
 				},
 				{
 					name: 'Forest',
-					titleH2: '#66BB6A',
-					titleH3: '#81C784',
-					bgArrows: '#43A047',
-					skillGroup: '#2E7D32',
-					skillShadowIcon: '#9CCC65',
-					boxShadow: '#2E7D32',
-					textColor: '#E8F5E9',
-					bgBody: '#1B5E20',
-					bgContainer: '#2E7D32',
-					bgDivider: '#66BB6A',
+					titleH2: '#66bb6a',
+					titleH3: '#81c784',
+					bgArrows: '#43a047',
+					skillGroup: '#1e4d32',
+					skillShadowIcon: '#9ccc65',
+					boxShadow: '#2e7d32',
+					textColor: '#e8f5e9',
+					bgBody: '#1b5e20',
+					bgContainer: '#2e7d32',
+					bgDivider: '#66bb6a',
 				},
 				{
 					name: 'Sunset',
-					titleH2: '#FF8A65',
-					titleH3: '#FFAB91',
-					bgArrows: '#FF5722',
-					skillGroup: '#D84315',
-					skillShadowIcon: '#FFCCBC',
-					boxShadow: '#D84315',
-					textColor: '#FBE9E7',
-					bgBody: '#BF360C',
-					bgContainer: '#D84315',
-					bgDivider: '#FF8A65',
+					titleH2: '#ff8a65',
+					titleH3: '#ffab91',
+					bgArrows: '#ff5722',
+					skillGroup: '#941915',
+					skillShadowIcon: '#ffccbc',
+					boxShadow: '#d84315',
+					textColor: '#fbe9e7',
+					bgBody: '#bf360c',
+					bgContainer: '#d84315',
+					bgDivider: '#ff8a65',
 				},
 				{
 					name: 'Lavender',
-					titleH2: '#9575CD',
-					titleH3: '#B39DDB',
-					bgArrows: '#7E57C2',
-					skillGroup: '#5E35B1',
-					skillShadowIcon: '#D1C4E9',
-					boxShadow: '#5E35B1',
-					textColor: '#EDE7F6',
-					bgBody: '#4527A0',
-					bgContainer: '#5E35B1',
-					bgDivider: '#9575CD',
+					titleH2: '#9575cd',
+					titleH3: '#b39ddb',
+					bgArrows: '#7e57c2',
+					skillGroup: '#4527a0',
+					skillShadowIcon: '#d1c4e9',
+					boxShadow: '#5e35b1',
+					textColor: '#ede7f6',
+					bgBody: '#4527a0',
+					bgContainer: '#5e35b1',
+					bgDivider: '#9575cd',
 				},
 				{
 					name: 'Light',
-					titleH2: '#B3476A',
-					titleH3: '#E86D82',
-					bgArrows: '#F15365',
-					skillGroup: '#EDF2F7',
+					titleH2: '#b3476a',
+					titleH3: '#e86d82',
+					bgArrows: '#f15365',
+					skillGroup: '#edf2f7',
 					skillShadowIcon: '#fdb2b2',
 					boxShadow: '#fdb2b2',
-					textColor: '#2D3748',
-					bgBody: '#F7FAFC',
-					bgContainer: '#FFFFFF',
+					textColor: '#2d3748',
+					bgBody: '#f7fafc',
+					bgContainer: '#ffffff',
 					bgDivider: '#e0cbcb',
 				},
-			]
+			];
+
+			// Function to update dynamic images
+			function updateDynamicImages(color) {
+				// Remove # from color for URL
+				const cleanColor = color.replace('#', '');
+				
+				// Update logo
+				const logo = document.getElementById('dynamic-logo');
+				logo.src = `https://x-lines.ru/letters/i/cyrillicfancy/1384/${cleanColor}/24/0/rbrgk5dcphsny1j8pwony1mpqjzo.png`;
+				
+				// Update typing SVG
+				const typing = document.getElementById('dynamic-typing');
+				typing.src = `https://readme-typing-svg.demolab.com?font=comic+sans+ms&weight=900&pause=1000&color=${cleanColor}&background=0066FF00&center=true&vCenter=true&random=true&width=500&height=40&lines=Welcome+to+my+profile!;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D1%83%D1%8E+%D0%B2%D1%81%D0%B5%D1%85%2C+%D0%BA%D1%82%D0%BE+%D0%B7%D0%B0%D0%B3%D0%BB%D1%8F%D0%BD%D1%83%D0%BB+%D0%BD%D0%B0+%D0%BC%D0%BE%D0%B9+%D0%BF%D1%80%D0%BE%D1%84%D0%B8%D0%BB%D1%8C!`;
+			}
 
 			// Function to set CSS variables
 			function setTheme(theme) {
-				document.documentElement.style.setProperty('--title-h2', theme.titleH2)
-				document.documentElement.style.setProperty('--title-h3', theme.titleH3)
+				document.documentElement.style.setProperty('--title-h2', theme.titleH2);
+				document.documentElement.style.setProperty('--title-h3', theme.titleH3);
 				document.documentElement.style.setProperty(
 					'--bg-arrows',
 					theme.bgArrows
-				)
+				);
 				document.documentElement.style.setProperty(
 					'--skill-group',
 					theme.skillGroup
-				)
+				);
 				document.documentElement.style.setProperty(
 					'--skill-shadow-icon',
 					theme.skillShadowIcon
-				)
+				);
 				document.documentElement.style.setProperty(
 					'--box-shadow',
 					theme.boxShadow
-				)
+				);
 				document.documentElement.style.setProperty(
 					'--text-color',
 					theme.textColor
-				)
-				document.documentElement.style.setProperty('--bg-body', theme.bgBody)
+				);
+				document.documentElement.style.setProperty('--bg-body', theme.bgBody);
 				document.documentElement.style.setProperty(
 					'--bg-container',
 					theme.bgContainer
-				)
+				);
 				document.documentElement.style.setProperty(
 					'--bg-divider',
 					theme.bgDivider
-				)
+				);
+
+				// Update dynamic images with the theme color
+				updateDynamicImages(theme.titleH2);
 
 				// Save theme to localStorage
-				localStorage.setItem('selectedTheme', JSON.stringify(theme))
+				localStorage.setItem('selectedTheme', JSON.stringify(theme));
 			}
 
 			// Function to generate color palette boxes
 			function generateColorPaletteBoxes() {
-				const paletteContainer = document.getElementById('color-palette')
+				const paletteContainer = document.getElementById('color-palette');
 
 				colorPalettes.forEach((palette, index) => {
-					const colorBox = document.createElement('div')
-					colorBox.className = 'color-box'
-					colorBox.style.background = `linear-gradient(135deg, ${palette.titleH2}, ${palette.titleH3})`
-					colorBox.title = palette.name
-					colorBox.onclick = () => setTheme(palette)
+					const colorBox = document.createElement('div');
+					colorBox.className = 'color-box';
+					colorBox.style.background = `linear-gradient(135deg, ${palette.titleH2}, ${palette.titleH3})`;
+					colorBox.title = palette.name;
+					colorBox.onclick = () => setTheme(palette);
 
-					paletteContainer.appendChild(colorBox)
-				})
+					paletteContainer.appendChild(colorBox);
+				});
 			}
 
 			// Function to get a random theme
 			function getRandomTheme() {
 				const randomIndex = Math.floor(
 					Math.random() * (colorPalettes.length - 1)
-				) // -1 to exclude light theme
-				return colorPalettes[randomIndex]
+				); // -1 to exclude light theme
+				return colorPalettes[randomIndex];
 			}
 
 			// Initialize theme on page load
 			document.addEventListener('DOMContentLoaded', function () {
-				generateColorPaletteBoxes()
+				generateColorPaletteBoxes();
 
 				// Check if a theme was previously saved
-				const savedTheme = localStorage.getItem('selectedTheme')
+				const savedTheme = localStorage.getItem('selectedTheme');
 				if (savedTheme) {
-					setTheme(JSON.parse(savedTheme))
+					const theme = JSON.parse(savedTheme);
+					setTheme(theme);
+				} else {
+					// Set default theme and update images
+					setTheme(colorPalettes[0]);
 				}
 
 				// Set up event listeners for theme buttons
 				document
 					.getElementById('random-theme')
 					.addEventListener('click', function () {
-						setTheme(getRandomTheme())
-					})
+						setTheme(getRandomTheme());
+					});
 
 				document
 					.getElementById('dark-theme')
 					.addEventListener('click', function () {
-						setTheme(colorPalettes[0]) // Coral theme (dark)
-					})
+						setTheme(colorPalettes[0]); // Coral theme (dark)
+					});
 
 				document
 					.getElementById('light-theme')
 					.addEventListener('click', function () {
-						setTheme(colorPalettes[5]) // Light theme
-					})
-			})
+						setTheme(colorPalettes[5]); // Light theme
+					});
+			});
 		</script>
 	</body>
 </html>
