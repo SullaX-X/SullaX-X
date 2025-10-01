@@ -6,6 +6,19 @@
 
 </div>
 
+## 🚀 Visit My Personal Website!
+
+<div align="center">
+
+⬇️ **Click the banner below to explore my interactive portfolio!** ⬇️
+
+[![Personal Website](https://img.shields.io/badge/🎯_Visit_My_Personal_Website-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://sullax-x.github.io/SullaX-X/)
+
+🎨 **Interactive portfolio with themes, animations, and more!**  
+✨ **Discover my projects, skills, and experience in style**
+
+</div>
+
 ## 📓📝 About Me
 
 ### English
@@ -76,8 +89,9 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
+
 <p align="center">
   <a href="https://yoomoney.ru/fundraise/1D4D9TIGTMN.251001" target="_blank">
-    <img src="./icons/it_project.png" alt="Sull's Logo" />
+    <img src="./icons/it_project.png" alt="Support My Project" />
   </a>
 </p>
