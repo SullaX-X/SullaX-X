@@ -41,7 +41,7 @@
 
 <div align="center">
 
-<!-- Я заменил локальные иконки на онлайн-генератор, чтобы они точно не ломались -->
+<!-- Иконки загружаются с внешнего сайта, чтобы не было "битых" картинок -->
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=linux,ubuntu,mint,kali,windows,git,github,gitlab,django,selenium,python,qt,bootstrap,figma,tailwind,html,css,js,postman,webstorm,vscode,visualstudio,pycharm,sublime,vim,sqlite,mysql,postgres,cs,dotnet,bash&perline=10" />
 </a>
@@ -65,26 +65,14 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-<br/><br/>
-
-<!-- ВИДЖЕТ СБОРА СРЕДСТВ -->
-<a href="https://yoomoney.ru/fundraise/1D4D9TIGTMN.251001" target="_blank">
-  <img src="https://img.shields.io/badge/Сбор_средств-До_01.01.2026-702ff4?style=for-the-badge&logo=yoomoney&logoColor=white&labelColor=2A2A35" />
-</a>
-<br/>
-<a href="https://yoomoney.ru/fundraise/1D4D9TIGTMN.251001" target="_blank">
-  <img src="https://img.shields.io/badge/Собрано-97_₽-success?style=for-the-badge&labelColor=2A2A35" />
-  <img src="https://img.shields.io/badge/Цель-100_000_₽-inactive?style=for-the-badge&labelColor=2A2A35" />
-</a>
-<br/>
-<a href="https://yoomoney.ru/fundraise/1D4D9TIGTMN.251001" target="_blank">
-  <!-- Чтобы изменить процент, поменяй цифру 0 в ссылке ниже (https://progress-bar.dev/0/...) на нужное число -->
-  <img src="https://progress-bar.dev/0/?scale=100&title=progress&width=450&color=702ff4&suffix=%" alt="Progress" />
-</a>
-<br/>
-<a href="https://yoomoney.ru/fundraise/1D4D9TIGTMN.251001" target="_blank">
-  <img src="https://img.shields.io/badge/💜_ПЕРЕВЕСТИ-702ff4?style=for-the-badge" height="40" />
-</a>
-<!-- КОНЕЦ ВИДЖЕТА -->
-
 </div>
+
+<br/>
+
+<p align="center">
+  <a href="https://yoomoney.ru/fundraise/1D4D9TIGTMN.251001" target="_blank">
+    <!-- ВОТ ЗДЕСЬ ТВОЯ КАРТИНКА -->
+    <!-- Убедись, что файл it_project.png лежит в папке icons -->
+    <img src="./icons/it_project.png" alt="Support My Project" />
+  </a>
+</p>
