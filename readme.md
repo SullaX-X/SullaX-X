@@ -88,8 +88,24 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
+<br/><br/>
+
+<!-- Начало блока Donate -->
+<a href="https://yoomoney.ru/fundraise/1D4D9TIGTMN.251001" target="_blank">
+  <img src="https://img.shields.io/badge/💜_Сбор_денег_на_IT--проект-2A2A35?style=for-the-badge&logoColor=white" height="35" />
+</a>
+
+<h3>97 ₽ из 100 000 ₽</h3>
+
+<a href="https://yoomoney.ru/fundraise/1D4D9TIGTMN.251001" target="_blank">
+  <img src="https://progress-bar.dev/0/?scale=100&title=collected&width=450&color=702ff4&suffix=%" alt="Progress" />
+</a>
+
 <br/>
 
-[![Support My Project](https://img.shields.io/badge/💜_Support_My_Project-YooMoney-8E24AA?style=for-the-badge)](https://yoomoney.ru/fundraise/1D4D9TIGTMN.251001)
+<a href="https://yoomoney.ru/fundraise/1D4D9TIGTMN.251001" target="_blank">
+  <img src="https://img.shields.io/badge/ПЕРЕВЕСТИ-702ff4?style=for-the-badge&logo=yoomoney&logoColor=white" height="40" />
+</a>
+<!-- Конец блока Donate -->
 
 </div>
