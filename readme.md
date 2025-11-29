@@ -39,14 +39,37 @@
 
 ## 🛠️ My Skill Set
 
-<div align="center">
+### Operating Systems
 
-<!-- Иконки загружаются с внешнего сайта, чтобы не было "битых" картинок -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,mint,kali,windows,git,github,gitlab,django,selenium,python,qt,bootstrap,figma,tailwind,html,css,js,postman,webstorm,vscode,visualstudio,pycharm,sublime,vim,sqlite,mysql,postgres,cs,dotnet,bash&perline=10" />
-</a>
+<img src="./icons/Linux-Dark.svg" alt="Linux" width="48" height="48"> <img src="./icons/Mint-Dark.svg" alt="Linux Mint" width="48" height="48"> <img src="./icons/Ubuntu-Dark.svg" alt="Ubuntu" width="48" height="48"> <img src="./icons/Kali-Dark.svg" alt="Kali Linux" width="48" height="48"> <img src="./icons/Windows-Dark.svg" alt="Windows" width="48" height="48">
 
-</div>
+### Version Control
+
+<img src="./icons/Git.svg" alt="Git" width="48" height="48"> <img src="./icons/Github-Dark.svg" alt="GitHub" width="48" height="48"> <img src="./icons/GitLab-Dark.svg" alt="GitLab" width="48" height="48">
+
+### Python Technologies
+
+<img src="./icons/Django.svg" alt="Django" width="48" height="48"> <img src="./icons/Selenium.svg" alt="Selenium" width="48" height="48"> <img src="./icons/Python-Dark.svg" alt="Python" width="48" height="48"> <img src="./icons/QT-Dark.svg" alt="Qt" width="48" height="48">
+
+### Frontend Technologies
+
+<img src="./icons/Bootstrap.svg" alt="Bootstrap" width="48" height="48"> <img src="./icons/Figma-Dark.svg" alt="Figma" width="48" height="48"> <img src="./icons/TailwindCSS-Dark.svg" alt="Tailwind CSS" width="48" height="48"> <img src="./icons/HTML.svg" alt="HTML" width="48" height="48"> <img src="./icons/CSS.svg" alt="CSS" width="48" height="48"> <img src="./icons/JavaScript.svg" alt="JavaScript" width="48" height="48"> <img src="./icons/Postman.svg" alt="Postman" width="48" height="48">
+
+### IDEs
+
+<img src="./icons/WebStorm-Dark.svg" alt="WebStorm" width="48" height="48"> <img src="./icons/VSCode-Dark.svg" alt="Visual Studio Code" width="48" height="48"> <img src="./icons/VisualStudio-Dark.svg" alt="Visual Studio" width="48" height="48"> <img src="./icons/PyCharm-Dark.svg" alt="PyCharm" width="48" height="48"> <img src="./icons/Sublime-Dark.svg" alt="Sublime Text" width="48" height="48"> <img src="./icons/VIM-Dark.svg" alt="Vim" width="48" height="48">
+
+### Database
+
+<img src="./icons/SQLite.svg" alt="SQLite" width="48" height="48"> <img src="./icons/MySQL-Dark.svg" alt="MySQL" width="48" height="48"> <img src="./icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="48" height="48">
+
+### Desktop Development
+
+<img src="./icons/CS.svg" alt="C#" width="48" height="48"> <img src="./icons/DotNet.svg" alt=".NET" width="48" height="48">
+
+### Other
+
+<img src="./icons/Bash-Dark.svg" alt="Bash" width="48" height="48">
 
 ## 📊 My GitHub Statistics
 
@@ -67,12 +90,8 @@
 
 </div>
 
-<br/>
-
 <p align="center">
   <a href="https://yoomoney.ru/fundraise/1D4D9TIGTMN.251001" target="_blank">
-    <!-- ВОТ ЗДЕСЬ ТВОЯ КАРТИНКА -->
-    <!-- Убедись, что файл it_project.png лежит в папке icons -->
     <img src="./icons/it_project.png" alt="Support My Project" />
   </a>
 </p>
