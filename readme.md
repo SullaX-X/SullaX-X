@@ -90,22 +90,28 @@
 
 <br/><br/>
 
-<!-- Начало блока Donate -->
+<!-- Начало виджета сбора -->
 <a href="https://yoomoney.ru/fundraise/1D4D9TIGTMN.251001" target="_blank">
-  <img src="https://img.shields.io/badge/💜_Сбор_денег_на_IT--проект-2A2A35?style=for-the-badge&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Сбор_денег_на_IT--проект-До_01.01.2026-702ff4?style=flat&labelColor=2A2A35&logo=yoomoney&logoColor=white" height="28" />
 </a>
-
-<h3>97 ₽ из 100 000 ₽</h3>
-
+<br/>
 <a href="https://yoomoney.ru/fundraise/1D4D9TIGTMN.251001" target="_blank">
-  <img src="https://progress-bar.dev/0/?scale=100&title=collected&width=450&color=702ff4&suffix=%" alt="Progress" />
+  <img src="https://img.shields.io/badge/Собрано-97_₽-success?style=flat&labelColor=2A2A35" height="25"/>
+  <img src="https://img.shields.io/badge/Цель-100_000_₽-gray?style=flat&labelColor=2A2A35" height="25"/>
 </a>
 
 <br/>
 
 <a href="https://yoomoney.ru/fundraise/1D4D9TIGTMN.251001" target="_blank">
-  <img src="https://img.shields.io/badge/ПЕРЕВЕСТИ-702ff4?style=for-the-badge&logo=yoomoney&logoColor=white" height="40" />
+  <!-- Чтобы изменить процент, меняй число после /0/ в ссылке ниже. Сейчас там 0 (ноль процентов) -->
+  <img src="https://progress-bar.dev/0/?scale=100&title=progress&width=400&color=702ff4&suffix=%" alt="Progress" />
 </a>
-<!-- Конец блока Donate -->
+
+<br/>
+
+<a href="https://yoomoney.ru/fundraise/1D4D9TIGTMN.251001" target="_blank">
+  <img src="https://img.shields.io/badge/💜_ПЕРЕВЕСТИ-702ff4?style=for-the-badge" height="45" />
+</a>
+<!-- Конец виджета -->
 
 </div>
