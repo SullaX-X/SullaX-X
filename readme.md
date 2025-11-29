@@ -39,37 +39,14 @@
 
 ## 🛠️ My Skill Set
 
-### Operating Systems
+<div align="center">
 
-<img src="./icons/Linux-Dark.svg" alt="Linux" width="48" height="48"> <img src="./icons/Mint-Dark.svg" alt="Linux Mint" width="48" height="48"> <img src="./icons/Ubuntu-Dark.svg" alt="Ubuntu" width="48" height="48"> <img src="./icons/Kali-Dark.svg" alt="Kali Linux" width="48" height="48"> <img src="./icons/Windows-Dark.svg" alt="Windows" width="48" height="48">
+<!-- Я заменил локальные иконки на онлайн-генератор, чтобы они точно не ломались -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,mint,kali,windows,git,github,gitlab,django,selenium,python,qt,bootstrap,figma,tailwind,html,css,js,postman,webstorm,vscode,visualstudio,pycharm,sublime,vim,sqlite,mysql,postgres,cs,dotnet,bash&perline=10" />
+</a>
 
-### Version Control
-
-<img src="./icons/Git.svg" alt="Git" width="48" height="48"> <img src="./icons/Github-Dark.svg" alt="GitHub" width="48" height="48"> <img src="./icons/GitLab-Dark.svg" alt="GitLab" width="48" height="48">
-
-### Python Technologies
-
-<img src="./icons/Django.svg" alt="Django" width="48" height="48"> <img src="./icons/Selenium.svg" alt="Selenium" width="48" height="48"> <img src="./icons/Python-Dark.svg" alt="Python" width="48" height="48"> <img src="./icons/QT-Dark.svg" alt="Qt" width="48" height="48">
-
-### Frontend Technologies
-
-<img src="./icons/Bootstrap.svg" alt="Bootstrap" width="48" height="48"> <img src="./icons/Figma-Dark.svg" alt="Figma" width="48" height="48"> <img src="./icons/TailwindCSS-Dark.svg" alt="Tailwind CSS" width="48" height="48"> <img src="./icons/HTML.svg" alt="HTML" width="48" height="48"> <img src="./icons/CSS.svg" alt="CSS" width="48" height="48"> <img src="./icons/JavaScript.svg" alt="JavaScript" width="48" height="48"> <img src="./icons/Postman.svg" alt="Postman" width="48" height="48">
-
-### IDEs
-
-<img src="./icons/WebStorm-Dark.svg" alt="WebStorm" width="48" height="48"> <img src="./icons/VSCode-Dark.svg" alt="Visual Studio Code" width="48" height="48"> <img src="./icons/VisualStudio-Dark.svg" alt="Visual Studio" width="48" height="48"> <img src="./icons/PyCharm-Dark.svg" alt="PyCharm" width="48" height="48"> <img src="./icons/Sublime-Dark.svg" alt="Sublime Text" width="48" height="48"> <img src="./icons/VIM-Dark.svg" alt="Vim" width="48" height="48">
-
-### Database
-
-<img src="./icons/SQLite.svg" alt="SQLite" width="48" height="48"> <img src="./icons/MySQL-Dark.svg" alt="MySQL" width="48" height="48"> <img src="./icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="48" height="48">
-
-### Desktop Development
-
-<img src="./icons/CS.svg" alt="C#" width="48" height="48"> <img src="./icons/DotNet.svg" alt=".NET" width="48" height="48">
-
-### Other
-
-<img src="./icons/Bash-Dark.svg" alt="Bash" width="48" height="48">
+</div>
 
 ## 📊 My GitHub Statistics
 
@@ -90,28 +67,24 @@
 
 <br/><br/>
 
-<!-- Начало виджета сбора -->
+<!-- ВИДЖЕТ СБОРА СРЕДСТВ -->
 <a href="https://yoomoney.ru/fundraise/1D4D9TIGTMN.251001" target="_blank">
-  <img src="https://img.shields.io/badge/Сбор_денег_на_IT--проект-До_01.01.2026-702ff4?style=flat&labelColor=2A2A35&logo=yoomoney&logoColor=white" height="28" />
+  <img src="https://img.shields.io/badge/Сбор_средств-До_01.01.2026-702ff4?style=for-the-badge&logo=yoomoney&logoColor=white&labelColor=2A2A35" />
 </a>
 <br/>
 <a href="https://yoomoney.ru/fundraise/1D4D9TIGTMN.251001" target="_blank">
-  <img src="https://img.shields.io/badge/Собрано-97_₽-success?style=flat&labelColor=2A2A35" height="25"/>
-  <img src="https://img.shields.io/badge/Цель-100_000_₽-gray?style=flat&labelColor=2A2A35" height="25"/>
+  <img src="https://img.shields.io/badge/Собрано-97_₽-success?style=for-the-badge&labelColor=2A2A35" />
+  <img src="https://img.shields.io/badge/Цель-100_000_₽-inactive?style=for-the-badge&labelColor=2A2A35" />
 </a>
-
 <br/>
-
 <a href="https://yoomoney.ru/fundraise/1D4D9TIGTMN.251001" target="_blank">
-  <!-- Чтобы изменить процент, меняй число после /0/ в ссылке ниже. Сейчас там 0 (ноль процентов) -->
-  <img src="https://progress-bar.dev/0/?scale=100&title=progress&width=400&color=702ff4&suffix=%" alt="Progress" />
+  <!-- Чтобы изменить процент, поменяй цифру 0 в ссылке ниже (https://progress-bar.dev/0/...) на нужное число -->
+  <img src="https://progress-bar.dev/0/?scale=100&title=progress&width=450&color=702ff4&suffix=%" alt="Progress" />
 </a>
-
 <br/>
-
 <a href="https://yoomoney.ru/fundraise/1D4D9TIGTMN.251001" target="_blank">
-  <img src="https://img.shields.io/badge/💜_ПЕРЕВЕСТИ-702ff4?style=for-the-badge" height="45" />
+  <img src="https://img.shields.io/badge/💜_ПЕРЕВЕСТИ-702ff4?style=for-the-badge" height="40" />
 </a>
-<!-- Конец виджета -->
+<!-- КОНЕЦ ВИДЖЕТА -->
 
 </div>
