@@ -88,10 +88,8 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-</div>
+<br/>
 
-<p align="center">
-  <a href="https://yoomoney.ru/fundraise/1D4D9TIGTMN.251001" target="_blank">
-    <img src="./icons/it_project.png" alt="Support My Project" />
-  </a>
-</p>
+[![Support My Project](https://img.shields.io/badge/💜_Support_My_Project-YooMoney-8E24AA?style=for-the-badge)](https://yoomoney.ru/fundraise/1D4D9TIGTMN.251001)
+
+</div>
